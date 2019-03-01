@@ -21,3 +21,5 @@ hola hola
 Cosas en LaTeX
 
 $$ z=\frac{2x_1^2}{3}+x_2 $$
+
+![Imagen chida de PL](imagen1.png)
