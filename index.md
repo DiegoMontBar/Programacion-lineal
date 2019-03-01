@@ -20,6 +20,6 @@ hola hola
 
 Cosas en LaTeX
 
-$ f(x)=\sum{i^2} $
+$$ x_{i}=\frac{2x^2}{3} $$
 
 \(x_{i}=\frac{2x^2}{3}\) 
