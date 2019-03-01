@@ -21,4 +21,4 @@ hola hola
 
 Cosas en LaTeX
 
-\(x_{i}=\frac{2x²}{3}\) 
+\(x_{i}=\frac{2x^2}{3}\) 
