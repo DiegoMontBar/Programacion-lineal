@@ -13,3 +13,9 @@ hola hola
 - [Página de Python](https://www.python.org/)
 - [Página de Google](https://www.google.com/)
 - [Mi página de GitHub](https://github.com/DiegoMontBar)
+
+## Problemas
+
+Cosas en LaTeX
+
+$$ x_{i}=\frac{2x²}{3}$$
