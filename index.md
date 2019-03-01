@@ -1,6 +1,5 @@
 
-<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script> 
-
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?c
 ## Página de progamación lineal 
 
 En esta página se mostrará lo cool que es esta clase que están bien padres y hacen cosas chidas en programación lineal.
@@ -20,5 +19,7 @@ hola hola
 ## Problemas
 
 Cosas en LaTeX
+
+$ f(x)=\sum{i^2} $
 
 \(x_{i}=\frac{2x^2}{3}\) 
