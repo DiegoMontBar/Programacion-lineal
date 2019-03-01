@@ -20,6 +20,4 @@ hola hola
 
 Cosas en LaTeX
 
-$$ x_{i}=\frac{2x^2}{3} $$
-
-\(x_{i}=\frac{2x^2}{3}\) 
+$$ z=\frac{2x_1^2}{3}+x_2 $$
